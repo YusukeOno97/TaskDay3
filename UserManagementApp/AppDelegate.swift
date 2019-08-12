@@ -4,7 +4,7 @@
 //
 //  Created by 小野勇輔 on 2019/08/07.
 //  Copyright © 2019 yo-project. All rights reserved.
-//
+//  
 
 import UIKit
 
@@ -43,4 +43,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
 
